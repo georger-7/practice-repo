@@ -22,10 +22,15 @@ I am _passionate about_:
 
 ***
 
-> Last modified: 2021/07/12
+> Last modified: 2021/07/20
 
+## Current classes
 
-
+Prefix    Number     Name                       Credits
+-------   ---------- ------------------------   ---------
+**COP**   **2073**   _Intro to Data Science_    3              
+**MAC**   **1142**   _Pre-calculus_             4
+                                  
 
 
 
